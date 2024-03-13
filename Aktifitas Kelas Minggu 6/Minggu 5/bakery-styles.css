@@ -96,6 +96,7 @@ main, h2, h3, p{
 main, h3{
   border-top: solid 1px brown;
   border-left: solid 3px brown;
+  margin-top: 50px;
 }
 
 main>h3{
