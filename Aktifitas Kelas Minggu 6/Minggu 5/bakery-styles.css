@@ -83,7 +83,7 @@ h2 {
 /* Marcell */
 
 main{
-  border: solid;
+  border: solid !important;
   border-color: yellow !important;
   border-radius: 30px;
 }
