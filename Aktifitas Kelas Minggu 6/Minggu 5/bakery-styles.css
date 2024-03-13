@@ -61,6 +61,7 @@ p.more {
 aside {
   background: url(images/scallop.png) repeat-y left top;
   background-color: #F6F3ED;
+  margin-left: 150px;
 }
 /* misc styles */
 footer {
