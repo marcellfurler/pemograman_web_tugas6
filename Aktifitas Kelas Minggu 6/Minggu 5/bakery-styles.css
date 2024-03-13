@@ -101,3 +101,12 @@ main>h3{
   padding-left: 20px;
 }
 
+
+/* kiel */
+#award{
+  z-index: 100;
+  position: absolute;
+  top: 4em;
+  left: 5em;
+
+}
