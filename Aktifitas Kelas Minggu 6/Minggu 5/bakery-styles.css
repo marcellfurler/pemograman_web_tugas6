@@ -78,3 +78,26 @@ h2 {
   text-transform: uppercase;
 }
 
+
+
+/* Marcell */
+
+main{
+  border: solid;
+  border-color: yellow !important;
+  border-radius: 30px;
+}
+
+main, h2, h3, p{
+  margin: 30px;
+}
+
+main, h3{
+  border-top: solid 1px brown;
+  border-left: solid 3px brown;
+}
+
+main>h3{
+  padding-left: 20px;
+}
+
