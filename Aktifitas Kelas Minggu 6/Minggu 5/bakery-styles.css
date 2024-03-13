@@ -110,3 +110,9 @@ main>h3{
   left: 5em;
 
 }
+nav ul li a{
+  text-decoration: none;
+  border-bottom: dotted 2px;
+  padding: 3px;
+  
+}
