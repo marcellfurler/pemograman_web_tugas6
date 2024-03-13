@@ -124,3 +124,8 @@ header p{
   font-weight: bold;
   padding-bottom: 20px;
 }
+.more a{
+  border-bottom: dotted 2px;
+  text-decoration: none;
+  font-weight: 800;
+}
