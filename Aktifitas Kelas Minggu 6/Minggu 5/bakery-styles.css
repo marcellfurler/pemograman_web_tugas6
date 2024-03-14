@@ -90,7 +90,7 @@ footer {
 footer {
   margin-top: 0px;
 }
-main p img {
+main p:nth-child(3) img {
   float: left;
   shape-outside: circle();
   width: 150px;
@@ -110,7 +110,7 @@ main{
 }
 
 main, h2, h3, p{
-  margin: 30px;
+  margin: 25px;
 }
 
 main, h3{
@@ -122,6 +122,19 @@ main, h3{
 main>h3{
   padding-left: 20px;
 }
+
+
+main img{
+  float: left;
+  margin: justify;
+}
+
+main p{
+  text-align: justify;
+  clear: left;
+  
+}
+
 
 
 /* kiel */
