@@ -57,6 +57,16 @@ p.more {
   font-size: .8em;
 }
 
+h2 {
+  font-family: 'Stint Ultra Expanded', cursive;
+}
+.day {
+  color: #783F27;
+  font-family: verdana, sans-serif;
+  font-size: .8em;
+  text-transform: uppercase;
+}
+/* Ivan */
 /* aside "hours" styles */
 aside {
   background: url(images/scallop.png) repeat-y left top;
@@ -68,15 +78,6 @@ footer {
   color: #EADDC4;
   text-align: center;
   font-size: .8em;
-}
-h2 {
-  font-family: 'Stint Ultra Expanded', cursive;
-}
-.day {
-  color: #783F27;
-  font-family: verdana, sans-serif;
-  font-size: .8em;
-  text-transform: uppercase;
 }
 
 
