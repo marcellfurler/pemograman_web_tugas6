@@ -67,6 +67,7 @@ h2 {
   text-transform: uppercase;
 }
 /* Ivan */
+
 /* aside "hours" styles */
 aside {
   background: url(images/scallop.png) repeat-y left top;
@@ -79,6 +80,10 @@ footer {
   text-align: center;
   font-size: .8em;
 }
+#award img {
+  position: fixed;
+}
+
 
 
 
