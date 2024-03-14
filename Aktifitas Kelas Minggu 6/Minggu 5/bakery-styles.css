@@ -85,7 +85,7 @@ h2 {
 
 main{
   border: solid !important;
-  border-color: yellow !important;
+  border-color: rgb(220, 203, 180) !important;
   border-radius: 30px;
 }
 
