@@ -70,18 +70,25 @@ h2 {
 
 /* aside "hours" styles */
 aside {
-  background: url(images/scallop.png) repeat-y left top;
+  background: url(images/scallop.png) repeat-y left center;
+  padding: 4% 6%;
   background-color: #F6F3ED;
   margin-left: 150px;
+  margin-bottom: 0;
   }
 /* misc styles */
 footer {
   color: #EADDC4;
   text-align: center;
   font-size: .8em;
+  margin-top: auto;
 }
 #award img {
   position: fixed;
+}
+
+footer {
+  margin-top: 0px;
 }
 
 
